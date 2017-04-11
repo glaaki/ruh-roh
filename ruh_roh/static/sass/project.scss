@@ -1,6 +1,17 @@
 
 // project specific CSS goes here
 
+body {
+	font-family: "Coming Soon";
+}
+
+.logo {
+	background-image: url("/static/images/logo.png");
+	display: inline-block;
+	height: 130px;
+	width: 130px;
+}
+
 ////////////////////////////////
 		//Variables//
 ////////////////////////////////
